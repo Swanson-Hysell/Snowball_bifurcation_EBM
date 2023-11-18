@@ -7,3 +7,7 @@ A run of the model with slightly modified variables is visualized in a simplifie
 ![Figure of results from energy-balance model illustrating Snowball bifurcation](https://github.com/Swanson-Hysell/Snowball_bifurcation_EBM/blob/main/Snowball_bifurcation_figure.png)
 
 The results shown are for calculations with a solar constant of 1,285 Wm<sup>−2</sup> (94% of present day), ice albedo of 0.7, and an adjusted outgoing longwave radiation forcing of -25 Wm<sup>−2</sup>. The colored boxes illustrate that ice-covered and ice-free temperatures using the same values assigned in Pierrehumbert et al. 2011. Note that while the x-axis is shown as a mixing ratio in parts per million by volume so that the values are more interpretable, the values are actually the CO<sub>2</sub> inventory in Pa multiplied by 6.6. This approximation is valid up until ~6,600 ppm and then is distorted. 
+
+The generated figure was included within the following publication: 
+
+Macdonald, F.M. and Swanson-Hysell, N.L. (2023), The Franklin large igneous province and Snowball Earth initiation, _Elements_, doi:10.2138/gselements.19.5.296.
